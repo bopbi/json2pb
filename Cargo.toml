@@ -19,5 +19,5 @@ name = "j2pb"
 path = "src/bin/j2pb.rs"
 
 [dependencies]
-clap = "2.33.2"
-nom = "6.0.0-alpha1"
+clap = "2.34.0"
+nom = "6.2.2"
